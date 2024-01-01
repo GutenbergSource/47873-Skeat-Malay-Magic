@@ -1,0 +1,17 @@
+
+.pref {
+    float: right;
+    text-align: right;
+}
+
+.indent-hang-small {
+    text-indent: -0.31em;
+}
+
+.indent-hang-medium {
+    text-indent: -0.39em
+}
+
+.indent-hang-large {
+    text-indent: -0.70em;
+}
